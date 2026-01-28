@@ -1,0 +1,25 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<pedido>
+
+    <destinatario>
+        <tratamiento>Sr.</tratamiento>
+        <nombre>Pepe</nombre>
+        <apellido>Monge</apellido>
+        <apellido>Martinez</apellido>
+    </destinatario>
+
+    <articulo>
+        <producto>Lavadora</producto>
+        <modelo>SX</modelo>
+    </articulo>
+
+    <direccion>
+        <calle>Conde</calle>
+        <numero>5</numero>
+        <piso>2</piso>
+        <puerta>B</puerta>
+
+    </direccion>
+    <fecha>20-6-2022</fecha>
+    
+</pedido>
